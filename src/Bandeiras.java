@@ -1,4 +1,3 @@
-
 import java.awt.Shape;
 import java.awt.geom.Line2D;
 import java.awt.image.BufferedImage;
@@ -15,7 +14,7 @@ import javax.imageio.ImageIO;
  */
 /**
  *
- * @author Eduardo
+ * @author Vitor
  */
 public class Bandeiras {
 
