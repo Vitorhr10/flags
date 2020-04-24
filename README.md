@@ -11,8 +11,9 @@ Flags
 </p>
 
 <div>
-  <img src="palavra.png" alt="Pixelated image">
-  <img src="retro_computer.png" alt="All caracters">
+  <img src="../src/assets/Bandeira_Alemanha.png" alt="German Flag">
+  <img src="./src/assets/Bandeira_Bélgica.png" alt="All caracters">
+  <img src="/src/assets/Bandeira_Suica.png" alt="All caracters">
 </div>
 
 <hr />
