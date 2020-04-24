@@ -11,21 +11,20 @@ Flags
 </p>
 
 <div>
-  <img src="../src/assets/Bandeira_Alemanha.png" alt="German Flag">
-  <img src="./src/assets/Bandeira_Bélgica.png" alt="All caracters">
-  <img src="/src/assets/Bandeira_Suica.png" alt="All caracters">
+  <img src="./src/assets/Bandeira_Bélgica.png" alt="Belgium Flag">
+  <img src="./src/assets/Estrela_de_Davi.png" alt="Star of David">
 </div>
 
 <hr />
 
 ## Getting started
 
-1. Clone this repo using `git clone git@github.com:Vitorhr10/pixelated-image.git`
-2. Move yourself to the appropriate directory: `cd Caracteres`
+1. Clone this repo using `git clone git@github.com:Vitorhr10/flag.git`
+2. Move yourself to the appropriate directory: `cd Bandeiras`
 3. Open this project in Netbeans IDE
 4. Run `execut the file`
-5. Type a word to generate a pixelated image
-6. Go to the root of the project to see the pixelated image
+5. Type a number to generate a flag
+6. Go to `assets` to see the flag
 
 ## License
 
